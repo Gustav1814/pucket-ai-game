@@ -1,4 +1,6 @@
 A fast-paced, competitive game where players launch pucks across a board aiming for goals. This implementation features a computerized version where players compete against an AI opponent.
+
+
 📋 Table of Contents
 
 Features
