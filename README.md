@@ -38,7 +38,7 @@ pip (Python package manager)
 Setup
 
 Clone the repository:
-bashgit clone https://github.com/Gustav1814/pucket-game.git
+git clone https://github.com/Gustav1814/pucket-ai-game.git
 cd pucket-game
 
 Install dependencies:
